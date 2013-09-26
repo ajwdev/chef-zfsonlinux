@@ -1,0 +1,1 @@
+cookbook 'zfsonlinux', :path => '/Users/andrew/source/chef-zfsonlinux'

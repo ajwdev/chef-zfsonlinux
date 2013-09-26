@@ -1,4 +1,13 @@
-chef-zfsonlinux
-===============
+# chef-zfsonlinux cookbook
 
-Install/configure ZFS for Linux
+# Requirements
+
+# Usage
+
+# Attributes
+
+# Recipes
+
+# Author
+
+Author:: Andrew Williams (williams.andrew@gmail.com)
