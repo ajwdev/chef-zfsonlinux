@@ -1,1 +1,9 @@
-cookbook 'zfsonlinux', :path => '/Users/andrew/source/chef-zfsonlinux'
+DEPENDENCIES
+  zfsonlinux
+    path: .
+    metadata: true
+
+GRAPH
+  build-essential (2.0.0)
+  zfsonlinux (0.1.0)
+    build-essential (>= 0.0.0)
